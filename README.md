@@ -1,5 +1,5 @@
 # smeichle/binf 
-Contains my python scripts that are used in bioinformatics
+Contains my python scripts that may commonly be used in bioinformatics
 
 ## Python Environment (with Anaconda)
 Code may be run using a Python environment based on 3.6.x.  Replicable environment with biopython.yml
